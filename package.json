@@ -2,7 +2,7 @@
   "name": "sub-accounts-lib",
   "version": "0.0.1",
   "description": "SubAccounts SDK",
-  "repository": "https://github.com/SubAccounts/sdk",
+  "repository": "https://github.com/SubAccounts/lib",
   "author": "Dmitriy Tarasov <meowbl@icloud.com>",
   "main": "index.js",
   "scripts": {
