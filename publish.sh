@@ -5,7 +5,7 @@ rm -rf dist/*
 npm run build
 
 cp package.json dist/
-cp README.txt dist/
+cp README.md dist/
 cp tsconfig.json dist/
 
 cd dist
